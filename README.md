@@ -1,1 +1,1 @@
-# API rea
+# API for REA application
